@@ -1,3 +1,7 @@
+### What is new about this repository
+- EDA of v-coco data and how to retrieve the data under ./notebooks directory
+
+------------------------below is the original readme file--------------------------
 # Verbs in COCO (V-COCO) Dataset
 
 This repository hosts the Verbs in COCO (V-COCO) dataset and associated code to evaluate models for the Visual Semantic Role Labeling (VSRL) task as ddescribed in <a href=http://arxiv.org/abs/1505.04474>this technical report</a>. 
